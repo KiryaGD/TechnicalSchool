@@ -1,0 +1,80 @@
+C:\Users\Sergo\Desktop\Collage\Collage\Collage\bin\Debug\Collage.exe.config
+C:\Users\Sergo\Desktop\Collage\Collage\Collage\bin\Debug\Collage.exe
+C:\Users\Sergo\Desktop\Collage\Collage\Collage\bin\Debug\Collage.pdb
+C:\Users\Sergo\Desktop\Collage\Collage\Collage\obj\Debug\Collage.csproj.AssemblyReference.cache
+C:\Users\Sergo\Desktop\Collage\Collage\Collage\obj\Debug\Collage.Properties.Resources.resources
+C:\Users\Sergo\Desktop\Collage\Collage\Collage\obj\Debug\Collage.csproj.GenerateResource.cache
+C:\Users\Sergo\Desktop\Collage\Collage\Collage\obj\Debug\Collage.csproj.CoreCompileInputs.cache
+C:\Users\Sergo\Desktop\Collage\Collage\Collage\obj\Debug\Collage.exe
+C:\Users\Sergo\Desktop\Collage\Collage\Collage\obj\Debug\Collage.pdb
+C:\Users\Sergo\Desktop\Collage\Collage\Collage\obj\Debug\Collage.Form1.resources
+C:\Users\Sergo\Desktop\Collage\Collage\Collage\obj\Debug\Collage.Form2.resources
+C:\Users\Sergo\Desktop\Collage\Collage\Collage\obj\Debug\Collage.Form3.resources
+C:\Users\Sergo\Desktop\Collage\Collage\Collage\obj\Debug\Collage.Form4.resources
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\вторая прога сереги\Collage\Collage\bin\Debug\Collage.exe.config
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\вторая прога сереги\Collage\Collage\bin\Debug\Collage.exe
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\вторая прога сереги\Collage\Collage\bin\Debug\Collage.pdb
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\вторая прога сереги\Collage\Collage\obj\Debug\Collage.csproj.AssemblyReference.cache
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\вторая прога сереги\Collage\Collage\obj\Debug\Collage.csproj.SuggestedBindingRedirects.cache
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\вторая прога сереги\Collage\Collage\obj\Debug\Collage.Form1.resources
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\вторая прога сереги\Collage\Collage\obj\Debug\Collage.Form2.resources
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\вторая прога сереги\Collage\Collage\obj\Debug\Collage.Form3.resources
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\вторая прога сереги\Collage\Collage\obj\Debug\Collage.Form4.resources
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\вторая прога сереги\Collage\Collage\obj\Debug\Collage.Properties.Resources.resources
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\вторая прога сереги\Collage\Collage\obj\Debug\Collage.csproj.GenerateResource.cache
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\вторая прога сереги\Collage\Collage\obj\Debug\Collage.csproj.CoreCompileInputs.cache
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\вторая прога сереги\Collage\Collage\obj\Debug\Collage.exe
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\вторая прога сереги\Collage\Collage\obj\Debug\Collage.pdb
+C:\Users\STUDENT81\Desktop\Collage\Collage\Collage\bin\Debug\Collage.exe.config
+C:\Users\STUDENT81\Desktop\Collage\Collage\Collage\bin\Debug\Collage.exe
+C:\Users\STUDENT81\Desktop\Collage\Collage\Collage\bin\Debug\Collage.pdb
+C:\Users\STUDENT81\Desktop\Collage\Collage\Collage\obj\Debug\Collage.csproj.AssemblyReference.cache
+C:\Users\STUDENT81\Desktop\Collage\Collage\Collage\obj\Debug\Collage.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENT81\Desktop\Collage\Collage\Collage\obj\Debug\Collage.Form1.resources
+C:\Users\STUDENT81\Desktop\Collage\Collage\Collage\obj\Debug\Collage.Form3.resources
+C:\Users\STUDENT81\Desktop\Collage\Collage\Collage\obj\Debug\Collage.Form4.resources
+C:\Users\STUDENT81\Desktop\Collage\Collage\Collage\obj\Debug\Collage.Properties.Resources.resources
+C:\Users\STUDENT81\Desktop\Collage\Collage\Collage\obj\Debug\Collage.csproj.GenerateResource.cache
+C:\Users\STUDENT81\Desktop\Collage\Collage\Collage\obj\Debug\Collage.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT81\Desktop\Collage\Collage\Collage\obj\Debug\Collage.exe
+C:\Users\STUDENT81\Desktop\Collage\Collage\Collage\obj\Debug\Collage.pdb
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\третья прога сереги\Collage\Collage\Collage\obj\Debug\Collage.csproj.AssemblyReference.cache
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\третья прога сереги\Collage\Collage\Collage\obj\Debug\Collage.csproj.SuggestedBindingRedirects.cache
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\третья прога сереги\Collage\Collage\Collage\obj\Debug\Collage.Form1.resources
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\третья прога сереги\Collage\Collage\Collage\obj\Debug\Collage.Form3.resources
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\третья прога сереги\Collage\Collage\Collage\obj\Debug\Collage.Form4.resources
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\третья прога сереги\Collage\Collage\Collage\obj\Debug\Collage.Properties.Resources.resources
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\третья прога сереги\Collage\Collage\Collage\obj\Debug\Collage.csproj.GenerateResource.cache
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\третья прога сереги\Collage\Collage\Collage\obj\Debug\Collage.csproj.CoreCompileInputs.cache
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\третья прога сереги\Collage\Collage\Collage\obj\Debug\Collage.exe
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\третья прога сереги\Collage\Collage\Collage\obj\Debug\Collage.pdb
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\третья прога сереги\Collage\Collage\Collage\bin\Debug\Collage.exe.config
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\третья прога сереги\Collage\Collage\Collage\bin\Debug\Collage.exe
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\третья прога сереги\Collage\Collage\Collage\bin\Debug\Collage.pdb
+C:\Users\Sergo\Desktop\Collage\Collage5252\Collage\bin\Debug\Collage.exe.config
+C:\Users\Sergo\Desktop\Collage\Collage5252\Collage\bin\Debug\Collage.exe
+C:\Users\Sergo\Desktop\Collage\Collage5252\Collage\bin\Debug\Collage.pdb
+C:\Users\Sergo\Desktop\Collage\Collage5252\Collage\obj\Debug\Collage.csproj.AssemblyReference.cache
+C:\Users\Sergo\Desktop\Collage\Collage5252\Collage\obj\Debug\Collage.Form1.resources
+C:\Users\Sergo\Desktop\Collage\Collage5252\Collage\obj\Debug\Collage.Form2.resources
+C:\Users\Sergo\Desktop\Collage\Collage5252\Collage\obj\Debug\Collage.Form3.resources
+C:\Users\Sergo\Desktop\Collage\Collage5252\Collage\obj\Debug\Collage.Form4.resources
+C:\Users\Sergo\Desktop\Collage\Collage5252\Collage\obj\Debug\Collage.Properties.Resources.resources
+C:\Users\Sergo\Desktop\Collage\Collage5252\Collage\obj\Debug\Collage.csproj.GenerateResource.cache
+C:\Users\Sergo\Desktop\Collage\Collage5252\Collage\obj\Debug\Collage.csproj.CoreCompileInputs.cache
+C:\Users\Sergo\Desktop\Collage\Collage5252\Collage\obj\Debug\Collage.exe
+C:\Users\Sergo\Desktop\Collage\Collage5252\Collage\obj\Debug\Collage.pdb
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\четвертая прога\Collage5252\Collage\obj\Debug\Collage.csproj.AssemblyReference.cache
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\четвертая прога\Collage5252\Collage\obj\Debug\Collage.csproj.SuggestedBindingRedirects.cache
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\четвертая прога\Collage5252\Collage\obj\Debug\Collage.Form1.resources
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\четвертая прога\Collage5252\Collage\obj\Debug\Collage.Form2.resources
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\четвертая прога\Collage5252\Collage\obj\Debug\Collage.Form3.resources
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\четвертая прога\Collage5252\Collage\obj\Debug\Collage.Form4.resources
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\четвертая прога\Collage5252\Collage\obj\Debug\Collage.Properties.Resources.resources
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\четвертая прога\Collage5252\Collage\obj\Debug\Collage.csproj.GenerateResource.cache
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\четвертая прога\Collage5252\Collage\obj\Debug\Collage.csproj.CoreCompileInputs.cache
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\четвертая прога\Collage5252\Collage\obj\Debug\Collage.exe
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\четвертая прога\Collage5252\Collage\obj\Debug\Collage.pdb
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\четвертая прога\Collage5252\Collage\bin\Debug\Collage.exe.config
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\четвертая прога\Collage5252\Collage\bin\Debug\Collage.exe
+D:\Users\Kirill\Documents\ДЗ\3 курс УП\BoevKirill_OOP\четвертая прога\Collage5252\Collage\bin\Debug\Collage.pdb
